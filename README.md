@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Gusmii
+- 👀 I’m interested in developing webs and app
+- 🌱 I’m currently learning flutter and dart
+- 💞️ I’m looking to collaborate on new projects 
+- 📫 How to reach me: agusmanop@gmail.com
