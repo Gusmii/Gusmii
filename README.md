@@ -2,4 +2,4 @@
 - 👀 I’m interested in developing webs and new apps
 - 🌱 I’m currently learning flutter and dart
 - 💞️ I’m looking for a job at new brands to help and develop myselft with them.
-- 📫 How to reach me: agusmanop@gmail.com
+- 📫 How to reach me: agusmanop@gmail.com | @GusmiiX
